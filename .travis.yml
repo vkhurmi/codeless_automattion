@@ -6,6 +6,6 @@ script:
 env:
 global:
 - SAUCE_USERNAME=vkhurmi
-- SAUCE_ACCESS_KEY: Tiger-25
+- SAUCE_ACCESS_KEY=Tiger-25
 "
 "
