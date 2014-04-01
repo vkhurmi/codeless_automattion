@@ -1,0 +1,11 @@
+languare: node_js
+before_script:
+	- "npm isntall -g se-interpreter"
+script:
+	- "se-interpreter interpreter_config.json"
+env:
+	global:
+		- SAUCE_USERNAME=vkhurmi
+		- secure:
+"
+"
