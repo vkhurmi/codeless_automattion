@@ -1,4 +1,4 @@
-languare: node_js
+language: node_js
 before_script:
 - "npm isntall -g se-interpreter"
 script:
@@ -7,5 +7,3 @@ env:
 global:
 - SAUCE_USERNAME=vkhurmi
 - SAUCE_ACCESS_KEY=Tiger-25
-"
-"
